@@ -1,3 +1,3 @@
 # Repo-demo
 This is my first repo.
-Aman Gupta
+Aman Gupta(IIT MANDI)
